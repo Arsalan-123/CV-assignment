@@ -1,0 +1,19 @@
+body {
+       background-color: #161719;
+   }
+   
+h1,h2,h3{
+       color: white;
+}
+h4{
+       color: greenyellow;
+}
+p{
+       color: grey; 
+   }
+.fontcolor2{
+color: green;
+}
+*body{
+       font-family: sans-serif;
+}
